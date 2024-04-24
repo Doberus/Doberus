@@ -1,10 +1,6 @@
 # Hello, I'm Akshay Dinesh Nair
 <a href="https://www.linkedin.com/in/akshaydnair/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+As a seasoned Data Analyst and a recent graduate with Merit (60%-70%) from the Master's program in Data Science at the University of Essex, I specialize in turning complex data into actionable insights that drive business success. My academic and professional journeys are marked by a passion for predictive modeling, automation, and enhancing decision-making processes through advanced analytics. With extensive experience in business intelligence tools and technologies, including Python, R, SQL, and machine learning, I am adept at both leading technical teams and developing innovative data-driven solutions. Whether orchestrating complex projects or navigating the challenges of large datasets, my goal is to leverage data accuracy and an inquisitive mindset to add substantial value to any team.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
